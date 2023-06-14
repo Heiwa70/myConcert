@@ -1,0 +1,7 @@
+{
+  "name": "MyConcert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
